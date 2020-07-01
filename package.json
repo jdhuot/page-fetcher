@@ -1,0 +1,23 @@
+{
+  "name": "pageFetcher",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jdhuot/page-fetcher.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jdhuot/page-fetcher/issues"
+  },
+  "homepage": "https://github.com/jdhuot/page-fetcher#readme",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
